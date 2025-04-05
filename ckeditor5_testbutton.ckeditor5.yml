@@ -1,13 +1,6 @@
-ckeditor5_testbutton_testbutton:
-  provider: ckeditor5_testbutton
-  drupal:
-    label: 'Test Button'
-    library: ckeditor5_testbutton/testbutton
-    toolbar_items:
-      TestButton:
-        label: 'Test Button'
-    elements:
-      - '<span>'
+ckeditor5_testbutton/testbutton:
   ckeditor5:
     plugins:
-      - default
+      - TestButton
+    toolbar_items:
+      - testbutton
