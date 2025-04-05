@@ -1,0 +1,4 @@
+name: CKEditor5 Test Button
+type: module
+core_version_requirement: ^10
+package: Custom

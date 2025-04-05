@@ -1,0 +1,13 @@
+{
+  "name": "ckeditor5_testbutton",
+  "version": "1.0.0",
+  "description": "Minimal CKEditor5 plugin for Drupal toolbar button test",
+  "main": "js/plugins/testbutton/dist/testbutton.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
