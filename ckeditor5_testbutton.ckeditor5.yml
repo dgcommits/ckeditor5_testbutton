@@ -1,12 +1,10 @@
-ckeditor5_testbutton/testbutton:
+ckeditor5_testbutton_testbutton:
   ckeditor5:
     plugins:
       - TestButton
-    toolbar_items:
-      - testbutton
 
   drupal:
     label: 'Test Button'
     library: ckeditor5_testbutton/testbutton
     elements:
-      - p
+      - "<p>"
