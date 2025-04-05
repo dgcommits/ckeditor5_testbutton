@@ -1,4 +1,5 @@
 name: CKEditor5 Test Button
 type: module
-core_version_requirement: ^10
+description: 'A simple CKEditor 5 plugin that adds a test button.'
+core_version_requirement: ^10 || ^11
 package: Custom
