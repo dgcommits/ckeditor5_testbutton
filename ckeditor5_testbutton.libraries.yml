@@ -1,6 +1,6 @@
 testbutton:
   js:
-    js/plugins/testbutton/dist/testbutton.js: {}
+    js/build/testbutton.js: {}
   dependencies:
-    - core/drupal
     - core/ckeditor5
+    - core/drupal

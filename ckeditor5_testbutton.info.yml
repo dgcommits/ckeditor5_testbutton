@@ -1,5 +1,5 @@
-name: CKEditor5 Test Button
+name: CKEditor 5 Test Button
 type: module
-description: 'A simple CKEditor 5 plugin that adds a test button.'
+description: 'A verified CKEditor 5 test button plugin modeled after editor_advanced_link.'
 core_version_requirement: ^10 || ^11
 package: Custom
